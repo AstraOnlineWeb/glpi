@@ -270,7 +270,7 @@ docker build -t nomedesuaimage:versao .
 
 <h3>Para contatos ou Consultoria</h3>
 
-🔔 Esta com dúvidas chama a gente lá no instagram:
-👉 Instagram: <ttps://www.instagram.com/astraonlineweeb/>
-📱 Whatsapp (61) 99687-8959
-👉 Site: <http://astraonline.com.br/>
+🔔 Esta com dúvidas chama a gente lá no instagram:<br>
+👉 Instagram: <https://www.instagram.com/astraonlineweeb/><br>
+📱 Whatsapp (61) 99687-8959<br>
+👉 Site: <http://astraonline.com.br/><br>
